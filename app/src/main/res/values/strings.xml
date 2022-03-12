@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android OTP</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="Password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="Continue">Continue</string>
+    <string name="send_me_a_new_code">Send me a new code</string>
+    <string name="get_code_to_verify">Get Code To Verify</string>
+    <string name="enter_phone_number_here">Enter phone number here</string>
+    <string name="internet_connected">Make sure the phone is connected to the internet</string>
+    <string name="phone_error">Phone number must be 11 digits</string>
+    <string name="phone_empty">You must enter the phone number</string>
+    <string name="invalid_code">invalid Code</string>
+    <string name="verify_Code">Verify Code</string>
+    <string name="resend_Code">Resend Code</string>
+    <string name="verify_Number">Verify Phone Number</string>
+    <string name="please_wait">please wait</string>
+    <string name="not_valid_phone">not valid number</string>
+    <string name="cancel">Cancel</string>
+    <string name="Please_Enter_Your_Code">Please Enter Your Code</string>
+    <string name="second">Second</string>
+    <string name="closed">Will closed In</string>
+    <string name="You_are_logged_in_as">You are logged in as</string>
+    <string name="We_text_on">We’ll text you on</string>
+</resources>

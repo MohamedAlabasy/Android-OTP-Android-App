@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android OTP</string>
+    <string name="Please_Enter_Your_Code">الرجاء إدخال الرمز الخاص بك </string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="Password">الرقم السري</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="verify_code">التحقق من كود</string>
+    <string name="Continue">المواصله</string>
+    <string name="send_me_a_new_code">أرسل لي رمز جديد </string>
+    <string name="get_code_to_verify">احصل على رمز للتحقق </string>
+    <string name="enter_phone_number_here">أدخل رقم الهاتف هنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="verify_Number">جاري التحقق من رقم الهاتف</string>
+    <string name="not_valid_phone">رقم الهاتف غير صحيح</string>
+    <string name="please_wait">من فضلك انتظر …</string>
+    <string name="resend_Code">جاري إعد إرسال الرمز</string>
+    <string name="internet_connected">تاكد من إتصال الهاتف بالانترنت</string>
+    <string name="phone_error">رقم الهاتف يجب ان يكون ١١ رقم</string>
+    <string name="phone_empty">يجب ان تدخل رقم الهاتف</string>
+    <string name="invalid_code">رمز التحقق غير صحيح</string>
+    <string name="verify_Code">جاري التحقق من كود </string>
+    <string name="second">ثانيه</string>
+    <string name="closed">سوف يغلق في</string>
+    <string name="You_are_logged_in_as">تم تسجيل دخولك ك</string>
+    <string name="We_text_on">سنراسلك على</string>
+</resources>

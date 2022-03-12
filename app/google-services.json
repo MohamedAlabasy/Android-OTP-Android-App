@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535996277780",
+    "project_id": "otp0-483cf",
+    "storage_bucket": "otp0-483cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535996277780:android:8032933d9f9070d34a3301",
+        "android_client_info": {
+          "package_name": "com.elabasy.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535996277780-6olbbagmkq2qke5cbl80farjknajbgh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDanP8EqdZQjoXTe3xSOfGQWFDaT7ZGXNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535996277780-6olbbagmkq2qke5cbl80farjknajbgh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
